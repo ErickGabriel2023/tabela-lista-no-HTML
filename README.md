@@ -1,8 +1,8 @@
 <h1 align="center">lista de Compras</h1>
 <br>
 O objetivo desse site, é mostrar uma tabela/listas de compras que pode ser feita pelo HTML
-o conceito é bem simples 
-<h2>Tecnologias Utilizadas</h2>
+o conceito é bem simples 😉
+<h2>Tecnologias Utilizadas🤓</h2>
 - HTML
 - CSS
 
